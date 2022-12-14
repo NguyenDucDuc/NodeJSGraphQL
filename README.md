@@ -1,0 +1,2 @@
+### Install package
+`npm install`
